@@ -20,8 +20,6 @@ Hi 👋, I'm Daniel Yotsov from Bulgaria. I'm 32 years old.<br>I’m currently l
 ---
 [![](https://visitcount.itsvg.in/api?id=doomsnight-bg&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can support me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/DanielYotsov) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
